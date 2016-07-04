@@ -8,13 +8,15 @@
 	<link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="http://s.mlcdn.co/animate.css">
 	<style type="text/css">
+		html {
+			background-color: #fffaf0;
+		}
 		body {
 			overflow: hidden;
 		}
 		h1.caption {
 			font-family: 'PT Sans Narrow', sans-serif;
 			size: 28px;
-			/*color: darkslategrey;*/
 		}
 		#parent { 
 			position: absolute;
